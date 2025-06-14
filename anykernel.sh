@@ -4,14 +4,12 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Chickernel by chickendrop89 | t.me/chickendrop89
+kernel.string=Sapphire Kernel by RifsxD@KSUNEXT
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=1
-device.name1=topaz
-device.name2=tapas
 device.name3=sapphire
 device.name4=sapphiren
 device.name5=
